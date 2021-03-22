@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://vantagecircle.ghost.io",
+    "contentApiKey": "035ae7fb3097139833e66054a6"
+  },
+  "production": {
+    "apiUrl": "https://vantagecircle.ghost.io",
+    "contentApiKey": "035ae7fb3097139833e66054a6"
+  }
+}
