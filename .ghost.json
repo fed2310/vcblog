@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "http://doblog.vantagecircle.com/",
+    "apiUrl": "http://doblog.vantagecircle.com",
     "contentApiKey": "4e436d5eb48bd50bc431342a82"
   },
   "production": {
-    "apiUrl": "http://doblog.vantagecircle.com/",
+    "apiUrl": "http://doblog.vantagecircle.com",
     "contentApiKey": "4e436d5eb48bd50bc431342a82"
   }
 }
